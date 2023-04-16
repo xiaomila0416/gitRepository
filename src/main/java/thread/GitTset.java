@@ -7,4 +7,5 @@ package thread;
 public class GitTset {
     String name;
     int age;
+    int high;
 }
